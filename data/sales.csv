@@ -1,4 +1,4 @@
-product,price,quantity # header row     # none should have any ending comma
+product,price,quantity
 Widget A,9.99,50
 Gadget B,24.50,3
 Gizmo C,4.25,12
